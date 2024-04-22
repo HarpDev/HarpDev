@@ -9,8 +9,9 @@ I am currently enrolled in the online program "GamedevHQ", but I have also worke
 
 Skills: C#, C++, 3D Modeling, Game Development, Level Design
 
-- 🔭 I’m currently working on this page. 
+*Current Updates*
+-Lead Developer on an experimental horror game called "Dayfall: FTL"
 
+-Learning SFML as a medium for learning C++ on a grounded level outside of pregenerated engines such as Unreal 4/5
 
-
-
+-Learning the VR/AR pipeline for UnityEngine
