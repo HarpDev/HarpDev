@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, My name is Harper.
+#### I am a freelance game developer and programmer
+![I am a freelance game developer and programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-<!--
-**HarpDev/HarpDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Since I was 14, I have taught myself game development and computer programming. I have spent the last 4 years learning C#, and more recently, I have been learning C++.
 
-Here are some ideas to get you started:
+I am currently enrolled in the online program "GamedevHQ", but I have also worked on a handfull of my own games, and many hobby team projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: C#, C++, 3D Modeling, Game Development, Level Design
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
