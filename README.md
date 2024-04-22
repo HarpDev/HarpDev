@@ -11,7 +11,7 @@ Skills: C#, C++, 3D Modeling, Game Development, Level Design
 
 *Current Updates*
 
--Lead Developer on an experimental horror game called "Dayfall: FTL"
+-Lead Developer on an experimental horror game called "Dayfall: FTL", being created under the studio name: "SKYII STUDIOS".
 
 -Learning SFML as a medium for learning C++ on a grounded level outside of pregenerated engines such as Unreal 4/5
 
