@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Harper.
+### Hi there. My name is Harper.
 #### I am a freelance game developer and programmer
 ![I am a freelance game developer and programmer](![image](https://github.com/HarpDev/HarpDev/assets/75390121/dd9d5cc7-d05e-4310-8a3e-8ccaadcf1d3b)
 
