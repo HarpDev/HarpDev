@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Harper.
 #### I am a freelance game developer and programmer
-![I am a freelance game developer and programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a freelance game developer and programmer](https://media.licdn.com/dms/image/D5616AQFKvxjwCTAD9w/profile-displaybackgroundimage-shrink_350_1400/0/1713804724201?e=1719446400&v=beta&t=HuQEv1Nn-VPNgZ1Jc36_j8Op8QMRXPqzEWHHwSfGV5s)
 
 Since I was 14, I have taught myself game development and computer programming. I have spent the last 4 years learning C#, and more recently, I have been learning C++.
 
