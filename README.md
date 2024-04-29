@@ -41,7 +41,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/HarpDev/HarpDev/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
