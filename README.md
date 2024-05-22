@@ -57,3 +57,5 @@ Skills: C#, C++, 3D Modeling, Game Development, Level Design
 -Learning SFML as a medium for learning C++ on a grounded level outside of pregenerated engines such as Unreal 4/5
 
 -Learning the VR/AR pipeline for UnityEngine
+
+-Learning Cybersecuity on the side for fun
