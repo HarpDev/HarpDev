@@ -5,7 +5,7 @@
 Computer Science undergraduate at Boise State University.
 Game Developer and Level Designer.
 
-5+ years of experience in shipping and developing Unity games from volunteer, solo, and team projects and several commercial Steam releases. Specialized in level design for linear and multiplayer experiences. Currently working at Subtle Bravado Studios on SCP: Valravn
+5+ years of experience in shipping and developing Unity games from volunteer, solo, and team projects and several commercial Steam releases. Specializes in level design for linear and multiplayer experiences. Currently working at Subtle Bravado Studios on SCP: Valravn
 
 ---
 
@@ -23,8 +23,6 @@ Game Developer and Level Designer.
 #
 
 
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
 #
 
