@@ -11,18 +11,10 @@ Game Developer and Level Designer.
 
 ### 🧰 Languages and Tools
 
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-<img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
-<img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
+
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 <img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
@@ -30,16 +22,7 @@ Game Developer and Level Designer.
 
 #
 
-### 📺 Latest YouTube Videos
 
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Java just got cleaner](https://ytcards.demolab.com/?id=YLCrAm-aGI8&title=Java+just+got+cleaner&lang=en&timestamp=1758046504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=449 "Java just got cleaner")](https://www.youtube.com/watch?v=YLCrAm-aGI8)
-[![Java is 30 Years Old // Here’s Why It’s Still Winning](https://ytcards.demolab.com/?id=spJwsa4KFrU&title=Java+is+30+Years+Old+%2F%2F+Here%E2%80%99s+Why+It%E2%80%99s+Still+Winning&lang=en&timestamp=1757602898&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=574 "Java is 30 Years Old // Here’s Why It’s Still Winning")](https://www.youtube.com/watch?v=spJwsa4KFrU)
-[![Portable Workstation](https://ytcards.demolab.com/?id=s3uqGfDc8P8&title=Portable+Workstation&lang=en&timestamp=1755897603&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=51 "Portable Workstation")](https://www.youtube.com/shorts/s3uqGfDc8P8)
-[![Why Everyone's Switching to Rust (And Why You Shouldn't)](https://ytcards.demolab.com/?id=meEXag1XCFw&title=Why+Everyone%27s+Switching+to+Rust+%28And+Why+You+Shouldn%27t%29&lang=en&timestamp=1755619274&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=884 "Why Everyone's Switching to Rust (And Why You Shouldn't)")](https://www.youtube.com/watch?v=meEXag1XCFw)
-[![AI Has Changed How We Build Software // What You Need to Know](https://ytcards.demolab.com/?id=3VQhdXcQ5qI&title=AI+Has+Changed+How+We+Build+Software+%2F%2F+What+You+Need+to+Know&lang=en&timestamp=1755026101&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1710 "AI Has Changed How We Build Software // What You Need to Know")](https://www.youtube.com/watch?v=3VQhdXcQ5qI)
-[![Everything You NEED to Know About TECH DEBT](https://ytcards.demolab.com/?id=ukgmp6uxQJc&title=Everything+You+NEED+to+Know+About+TECH+DEBT&lang=en&timestamp=1753375920&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=1533 "Everything You NEED to Know About TECH DEBT")](https://www.youtube.com/watch?v=ukgmp6uxQJc)
-<!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/fknight?sub_confirmation=1)
 
