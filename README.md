@@ -45,11 +45,15 @@ Game Developer and Level Designer.
 
 #
 
-### 📊 Stats
+### Stats
 
 ![HarpDev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarpDev&theme=great-gatsby&hide_border=true)
 
+![HarpDev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarpDev&theme=great-gatsby&show_icons=true&hide_border=true&layout=compact)
+
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+
+
 
 #
 <!--
